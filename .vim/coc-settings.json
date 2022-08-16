@@ -1,0 +1,11 @@
+{
+  "eslint.autoFixOnSave": false,
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "tsserver.enable": false,
+  "prettier.disableLanguages": [
+    "typescript",
+    "javascript"
+  ]
+}
